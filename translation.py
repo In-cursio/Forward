@@ -9,15 +9,14 @@ import os
 from config import Config
 
 class Translation(object):
-  START_TXT = """🙋‍♂ Hey {}
+  START_TXT = """<b>🙋‍♂ Hey {}
 
 👉 I Am A Advanced Auto Forward Bot
   
 👉 I Can Forward All Message From One Channel To Another Channel 
   
-👉 Click Help Button To Know More About Me
-  
-<b>Bot Is Made By @Stubborn1223</b>"""
+👉 Click Help Button To Know More About Me</b>
+"""
 
 
   HELP_TXT = """<b><u>🛠️ Help</b></u>
@@ -52,9 +51,8 @@ class Translation(object):
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/@Stubborn1223'> 𝕊𝕋𝕌𝔹𝔹𝕆ℝℕ 🕊</a>
-
-<b>♻️ Bot Made By :</b> @Stubborn1223 """
+<b>🧑‍💻 Developer :</b> <a href='https://t.me/Starley_tg'>𝘚𝘵𝘢𝘳𝘭𝘦𝘠</a>
+ """
   
   STATUS_TXT = """<b><u>Bot Status</u></b>
   
